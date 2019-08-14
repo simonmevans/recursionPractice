@@ -6,6 +6,6 @@ public class Main {
 //    Factorial test = new Factorial();
 //        Fibonacci test2 = new Fibonacci();
 //        StringPrintRec test3 = new StringPrintRec();
-        Power test4 = new Power();
+//        Power test4 = new Power();
     }
 }
